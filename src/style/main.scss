@@ -28,6 +28,17 @@
             opacity: 0.9;
             border-radius: 1.25rem;
         }
+        .form-control {
+            &::placeholder {
+                font-style: italic;
+                font-weight: 300;
+                font-size: .75rem;
+                color: $grey-74;
+            }
+            &:focus {
+                box-shadow: none;
+            }
+        }
     }
     .footer {
         background-color: $black;

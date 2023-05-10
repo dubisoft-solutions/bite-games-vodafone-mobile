@@ -1,6 +1,7 @@
 // scss-docs-start font-variables
 // stylelint-disable value-keyword-case
 $font-family-sans-serif: "Inter" !default;
+$font-second-family-sans-serif: "Montserrat" !default;
 $white: #FFFFFF;
 $cyan: #BF2DE2;
 $green: #81D73E;
@@ -47,7 +48,5 @@ $input-border-radius: $border-radius-sm !default;
 $input-group-addon-color: $white !default;
 $input-group-addon-border-color: transparent !default;
 $input-group-addon-bg: transparent !default;
-$form-feedback-invalid-color: red !default;
-$form-feedback-font-size: .625rem !default;
 $input-box-shadow: none !default;
 $input-focus-box-shadow: none !default;
