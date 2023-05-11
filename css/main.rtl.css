@@ -10832,7 +10832,7 @@ h1, .h1 {
 .index .main {
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  min-height: 88vh;
 }
 .index .main-bg {
   position: relative;
