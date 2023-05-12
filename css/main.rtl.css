@@ -10867,3 +10867,6 @@ h1, .h1 {
     border-left: none;
   }
 }
+.index .footer .navbar-brand-img {
+  height: 1.875rem;
+}
